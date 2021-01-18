@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>sh/startup1.sh</file>
+        <file>sh/startup2.sh</file>
+    </qresource>
+</RCC>
