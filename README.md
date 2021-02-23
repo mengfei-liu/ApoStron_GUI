@@ -2,8 +2,8 @@
 
 ## Workflow OverView
 
-![image]("workflow img"/workflow.gif)
+![image](https://github.com/mengfei-liu/ApoStron_GUI/"workflow img"/workflow.gif)
 
 ## There are 7 modes for this laser alignment/measurement device.
 
-![image]("workflow img"/"Mode Page"/"Mode List.png")
+![image](https://github.com/mengfei-liu/ApoStron_GUI/"workflow img"/"Mode Page"/"Mode List.png")
